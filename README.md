@@ -22,14 +22,13 @@
 - **Flutter**, **Dart**
 - **Python**, **Selenium**
 - **Pandas**, **PowerBI**
-- **Git**, **GitHub**
 
 ---
 
 ## 💡 Observações
 
 Alguns projetos podem estar em desenvolvimento ou conter arquivos auxiliares para apresentações e atividades práticas.  
-Sinta-se à vontade para explorar, sugerir melhorias ou contribuir com ideias!
+
 
 ---
 
